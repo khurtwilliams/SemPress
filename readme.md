@@ -1,4 +1,4 @@
-# SemPress
+# SemPress Child Theme
 
 [![Flattr this](http://button.flattr.com/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=pfefferle&url=https%3A%2F%2Fgithub.com%2Fpfefferle%2Fsempress)
 
